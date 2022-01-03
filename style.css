@@ -98,7 +98,7 @@ span {
   content: "";
     display: block;
     position: absolute;
-    background-image: url(images/icon-view.svg);
+    background-image: url(./icon-view.svg);
     background-repeat: no-repeat;
     background-position: center;
     left: 225px;
