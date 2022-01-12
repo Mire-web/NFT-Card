@@ -103,7 +103,7 @@ span {
     display: block;
     position: absolute;
     transform: translate(-50%, 0);
-    background-image: url(images/icon-view.svg);
+    background-image: url(./icon-view.svg);
     background-repeat: no-repeat;
     background-position: center;
     left: 50%;
