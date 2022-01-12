@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://nftchallenge.netlify.app/](https://your-solution-url.com)
+- Solution URL: [nftchallenge](https://nftchallenge.netlify.app/)
 
 ## My process
 Let me walk you through how I solved the challenge
